@@ -13,6 +13,10 @@ dit is een nieuwe lijn van Ger
 Ik voeg nu een regel erboven toe.
 ik voeg nog een regel toe.
 
+private String getName()
+{
+	return "oliebol";
+}
 
 ik ben lekker aan het werk.
 
