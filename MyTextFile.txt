@@ -27,23 +27,11 @@ Hallo ik weer klaar
 
 GER GER GER
 
-
-
-
-
-
-
-
-
-
-
-
-
-public void return(int int){
-	system.out.println("dit is het getal: " + int);
+public void change(int nr){
+	System.out.println("mijn naam is haas");
+	while(true)
+	{
+	  x++;
+        }
 }
-
-
-
-
 
