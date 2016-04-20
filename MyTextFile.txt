@@ -2,9 +2,6 @@ hier staat tekst van Ger
 hier staat tekst van Joep
 hallo
 
-<<<<<<< HEAD
-dit is een nieuwe lijn van Ger
-=======
 Hoe gaat het?
 dit is een nieuwe lijn van Ger
->>>>>>> development
+
