@@ -2,6 +2,8 @@ hier staat tekst van XXXXXXXXXX
 hier staat tekst van Joepoej
 hallo
 
+int integer = 7;
+
 hey
 hallo
 mijn
@@ -24,4 +26,24 @@ Hallo ik weer klaar
 
 
 GER GER GER
+
+
+
+
+
+
+
+
+
+
+
+
+
+public void return(int int){
+	system.out.println("dit is het getal: " + int);
+}
+
+
+
+
 
