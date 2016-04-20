@@ -25,3 +25,11 @@ Hallo ik weer klaar
 
 GER GER GER
 
+
+public void change(int nr){
+	System.out.println("mijn naam is haas");
+	while(true)
+	{
+	  x++;
+        }
+}
